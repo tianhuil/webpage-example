@@ -47,6 +47,11 @@ p.lead {
     background-color: rgba(0,0,0,0.4);
 }
 
+.margin-30 {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
